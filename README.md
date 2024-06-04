@@ -28,5 +28,5 @@
 <br><br>
 <br><br>
 <div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudeepgtm777&" alt="sudeepgtm777" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sudeepgtm777&" alt="sudeepgtm777" /></p>
 </div>
