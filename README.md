@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30", I'm Sudeep Gautam</h1>
+<h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30">, I'm Sudeep Gautam</h1>
 <h3 align="center">A passionate frontend developer and backend developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <a href="https://twitter.com/sudeepgtm777" target="blank"><img src="https://img.shields.io/twitter/follow/sudeepgtm777?logo=twitter&style=for-the-badge" alt="sudeepgtm777" /></a> </p>
