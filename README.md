@@ -29,7 +29,7 @@
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-<img src="https://cdnlogo.com/logos/t/34/tailwind-css.svg" 
+<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" 
 alt="Tailwind CSS" width="40" height="40" />
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
