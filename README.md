@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Studying Computer Science
 
-- 🌱 I’m currently learning **Backend Web Technologies "Nodejs with express and mongodb"**
+- 🌱 I’m currently learning **Backend Web Technologies "Nodejs with express and mongodb/postgresSql"**
 
 - 📫 How to reach me **sudeepgautam777@gmail.com**
 
