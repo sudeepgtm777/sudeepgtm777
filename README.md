@@ -20,8 +20,6 @@
   <img src="https://streak-stats.demolab.com/?user=sudeepgtm777&theme=tokyonight&hide_border=true&border_radius=12&mode=daily&card_width=830" alt="GitHub contribution streak for sudeepgtm777" />
 </p>
 
-<!-- Stats cards: public Vercel mirror (alpha-flame) + streak-stats.demolab.com — fork https://github.com/anuraghazra/github-readme-stats and deploy your own for maximum reliability -->
-
 ### ✍️ Dev quote
 
 <p align="center">
