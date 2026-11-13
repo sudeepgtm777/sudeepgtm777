@@ -35,8 +35,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-alpha-flame.vercel.app/api?username=sudeepgtm777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=12&hide_rank=true" alt="GitHub stats for sudeepgtm777" />
-  <img width="49%" src="https://github-readme-stats-alpha-flame.vercel.app/api/top-langs/?username=sudeepgtm777&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top languages for sudeepgtm777" />
+  <img height="200" width="49%" src="https://github-readme-stats-alpha-flame.vercel.app/api?username=sudeepgtm777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=12&hide_rank=true&hide=contribs" alt="GitHub stats for sudeepgtm777" />
+  <img height="200" width="49%" src="https://github-readme-stats-alpha-flame.vercel.app/api/top-langs/?username=sudeepgtm777&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top languages for sudeepgtm777" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sudeepgtm777&theme=tokyonight&hide_border=true&border_radius=12&mode=daily&card_width=830" alt="GitHub contribution streak for sudeepgtm777" />
