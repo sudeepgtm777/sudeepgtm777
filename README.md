@@ -35,8 +35,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="200" width="49%" src="./assets/github-stats.svg" alt="GitHub stats for sudeepgtm777" />
-  <img height="200" width="49%" src="./assets/github-langs.svg" alt="Top languages for sudeepgtm777" />
+  <img height="200" width="49%" src="https://raw.githubusercontent.com/sudeepgtm777/sudeepgtm777/stats/github-stats.svg" alt="GitHub stats for sudeepgtm777" />
+  <img height="200" width="49%" src="https://raw.githubusercontent.com/sudeepgtm777/sudeepgtm777/stats/github-langs.svg" alt="Top languages for sudeepgtm777" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sudeepgtm777&theme=tokyonight&hide_border=true&border_radius=12&mode=daily&card_width=830" alt="GitHub contribution streak for sudeepgtm777" />
